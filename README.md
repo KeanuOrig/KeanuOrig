@@ -1,16 +1,24 @@
-## Hi there 👋
+🧑‍💻 Welcome to My GitHub Profile!
 
-<!--
-**KeanuOrig/KeanuOrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Keanu, a passionate software developer focused on building scalable and efficient applications. With extensive experience in full-stack development, mobile development, and cloud technologies, I enjoy crafting solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+📌 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-Stack Development: Proficient in both frontend and backend technologies.
+API Development: Expertise in building RESTful and SOAP APIs.
+Cloud & DevOps: Skilled in GCP, AWS, Docker, and CI/CD pipelines to streamline development and deployment processes.
+
+🛠️ Skills & Technologies:
+
+Languages: Java, PHP, JavaScript, C#, Dart
+Frameworks: Spring Boot, Laravel, Vue.js, React, Node.js, .NET
+Cloud: AWS, Docker, GCP, Apigee
+Databases: MySQL, SQL Server, MongoDB
+
+🔗 Links:
+- [LinkedIn](https://www.linkedin.com/in/keanu-john-orig-12086163)
+- [Portfolio](https://portfolio-orig-vue.vercel.app)
+
+📈 GitHub Stats:
+![Keanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeanuOrig&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KeanuOrig&layout=compact&theme=default)
