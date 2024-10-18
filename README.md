@@ -20,5 +20,4 @@ Databases: MySQL, SQL Server, MongoDB
 - [Portfolio](https://portfolio-orig-vue.vercel.app)
 
 📈 GitHub Stats:
-![Keanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeanuOrig&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KeanuOrig&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuOrig&layout=compact&theme=default)
