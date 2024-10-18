@@ -19,8 +19,8 @@ Databases: MySQL, SQL Server, MongoDB
 
 🔗 **Links:**
 
-- [LinkedIn](https://www.linkedin.com/in/keanu-john-orig-12086163)
-- [Portfolio](https://portfolio-orig-vue.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keanu-john-orig-12086163)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-orig-vue.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuOrig&layout=compact&theme=default)
 
