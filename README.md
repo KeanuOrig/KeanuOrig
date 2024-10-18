@@ -15,9 +15,13 @@ Frameworks: Spring Boot, Laravel, Vue.js, React, Node.js, .NET
 Cloud: AWS, Docker, GCP, Apigee
 Databases: MySQL, SQL Server, MongoDB
 
-🔗 Links:
+<div align="center">
+
+🔗 **Links:**
+
 - [LinkedIn](https://www.linkedin.com/in/keanu-john-orig-12086163)
 - [Portfolio](https://portfolio-orig-vue.vercel.app)
 
-📈 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanuOrig&layout=compact&theme=default)
+
+</div>
