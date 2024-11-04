@@ -4,6 +4,9 @@
 <p>
 Hi there! I'm Keanu, a passionate software developer focused on building scalable and efficient applications. With extensive experience in full-stack development, mobile development, and cloud technologies, I   enjoy crafting solutions that solve real-world problems.
 </p>
+<p>
+I'm currently expanding my skill set by diving deeper into front-end technologies and exploring 3D development. This new focus allows me to deliver more visually engaging and interactive applications, bridging my technical expertise with user-centric design.
+</p>
 
 <hr>
 <strong>📌 What I Do:</strong>
