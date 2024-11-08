@@ -21,8 +21,8 @@ I'm currently expanding my skill set by diving deeper into front-end technologie
 <strong>🛠️ Skills & Technologies:</strong>
 <br></br>
 <ul>
-  <li>Languages: Java, PHP, JavaScript, C#, Dart</li>
-  <li>Frameworks: Spring Boot, Laravel, Vue.js, React, Next, Three.js, Node.js, .NET</li>
+  <li>Languages: Java, PHP, JavaScript, C#, Dart, Python</li>
+  <li>Frameworks: Spring Boot, Laravel, Vue.js, React, Next, Three.js, Node.js, .NET, Django</li>
   <li>Cloud: AWS, Docker, GCP, Apigee</li>
   <li>Databases: MySQL, SQL Server, MongoDB</li>
 </ul>
